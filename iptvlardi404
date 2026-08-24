@@ -27,14 +27,9 @@ http://138.121.15.230:9002/A&E/index.m3u8
 
 # === DISNEY ===
 
-#EXTINF:-1 tvg-id="Disney-XD-USA" tvg-name="Disney XD USA" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/2009_Disney_XD_logo.png" group-title="Disney",Disney XD USA
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 
 # === INFANTIL ===
-
-#EXTINF:-1 tvg-id="Disney-Channel" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Disney_channel_2019.png" group-title="Infantil",Disney Channel
-http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney-Channel-MX" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Disney_channel_2019.png" group-title="Infantil",Disney Channel
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
@@ -42,11 +37,6 @@ http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Disney-Junior" tvg-name="Disney Junior" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/2017_Disney_Junior_logo.png" group-title="Infantil",Disney Junior
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney-Junior-USA" tvg-name="Disney Junior USA" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/2017_Disney_Junior_logo.png" group-title="Infantil",Disney Junior USA
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
 
-# === DEPORTES ===
 
-#EXTINF:-1 tvg-id="Azteca-Deportes-HD" tvg-name="Azteca Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Azteca_Deportes_logo.svg/512px-Azteca_Deportes_logo.svg.png" group-title="Deportes",Azteca Deportes HD
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8

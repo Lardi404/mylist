@@ -7,6 +7,12 @@
 #EXTINF:-1 tvg-id="SonyMovies" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sony_Movies_logo.svg/512px-Sony_Movies_logo.svg.png" group-title="Películas",Sony Movies
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Golden_logo_2021.svg/512px-Golden_logo_2021.svg.png" group-title="Películas",Golden
+http://45.5.118.152:8000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="Popcorn Central" tvg-name="Popcorn Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Popcorn_Central_logo.svg/512px-Popcorn_Central_logo.svg.png" group-title="Películas",Popcorn Central
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+
 # === ENTRETENIMIENTO ===
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AXN_Logo.svg/512px-AXN_Logo.svg.png" group-title="Entretenimiento",AXN
@@ -15,13 +21,23 @@ http://177.234.249.178:8888/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXN-White" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AXN_White_logo.svg/512px-AXN_White_logo.svg.png" group-title="Entretenimiento",AXN White
 http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 
+#EXTINF:-1 tvg-id="E! Entertainment HD" tvg-name="E! Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/E%21_Entertainment_Logo.svg/512px-E%21_Entertainment_Logo.svg.png" group-title="Entretenimiento",E! Entertainment HD
+http://72.1.184.5:8089/play/a05d/index.m3u8
+
+#EXTINF:-1 tvg-id="Imagen TV" tvg-name="Imagen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Imagen_Televisi%C3%B3n_logo.svg/512px-Imagen_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento",Imagen TV
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Las_Estrellas_logo.svg/512px-Las_Estrellas_logo.svg.png" group-title="Entretenimiento",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 
 # === NOTICIAS/DEPORTES ===
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Entretenimiento",Canal 5
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TV_Azteca_7_logo.svg/512px-TV_Azteca_7_logo.svg.png" group-title="Entretenimiento",Azteca 7
+http://187.245.231.226:8000/play/a0uz/index.m3u8
 
 # === DOCUMENTALES ===
 
@@ -31,14 +47,17 @@ http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/A%26E-Network-Logo.svg" group-title="Documentales",A&E
 http://138.121.15.230:9002/A&E/index.m3u8
 
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National_Geographic_Channel_logo.svg/512px-National_Geographic_Channel_logo.svg.png" group-title="Documentales",National Geographic
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+
 
 # === INFANTIL ===
 
 #EXTINF:-1 tvg-id="Disney-Channel-MX" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Disney_channel_2019.png" group-title="Infantil",Disney Channel
-http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8 
 
 #EXTINF:-1 tvg-id="Disney-Junior" tvg-name="Disney Junior" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/2017_Disney_Junior_logo.png" group-title="Infantil",Disney Junior
-http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+http://190.14.10.19:16000/play/a02d/index.m3u8
 
 
 

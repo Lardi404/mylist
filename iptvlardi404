@@ -18,7 +18,7 @@ http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 
 # === NOTICIAS/DEPORTES ===
 
-#EXTINF:-1 tvg-id="Canal5" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Entretenimiento",Canal 5
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Entretenimiento",Canal 5
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
 
